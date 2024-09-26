@@ -1,3 +1,3 @@
 ### Canlı Site
-[Drum Kit](https://github-username.github.io/repository-name)
-![Proje Ekran Görüntüsü](projeResmi.png)# Drum-Kit
+[Drum Kit](https://yakuperenermurat.github.io/Drum-Kit/)
+![Proje Ekran Görüntüsü](projeResmi.png)
